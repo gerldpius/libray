@@ -1,0 +1,58 @@
+#tasks{
+    color: red;
+    background-color: whitesmoke;
+    padding: 20px;
+}
+#head{
+    color: brown;
+    font-style: oblique;
+    text-align: center;
+}
+#logo{
+    background-color: lightblue;
+    padding: 20px;
+    color: red;
+    text-align: center;
+
+
+}
+#searc{
+    border: rgb(22, 67, 82);
+    height: auto;
+    width: auto;
+    box-decoration-break: slice;
+}
+nav{
+    background-color: brown;
+    padding: 20px;
+    text-transform: uppercase;
+    color: white;
+    cursor: pointer;
+}
+#list{
+    padding: 20px;
+    text-align: center;
+    color: white;
+    
+}
+#hom{
+    color: brown;
+}
+#catalog{
+    background-color: bisque;
+}
+#search{
+    background-color: red;
+    color: white;
+    padding: 10px;
+
+}
+#color{
+    color: red;
+    font-size: 20px;
+}
+#Go{
+    color: white;
+    background-color: red;
+    padding: 10px;
+}
